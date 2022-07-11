@@ -1,4 +1,4 @@
-# Non-Responsive Gym site
+# Tathastu Web Development Scholar Intern Task
 
 Task-2 A non-responsive gym site using html and css only.
 
